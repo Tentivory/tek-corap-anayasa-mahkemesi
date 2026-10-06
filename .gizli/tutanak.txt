@@ -1,0 +1,9 @@
+Bu dosya arşiv içindir. Arşiv okunmaz.
+
+Not (base64, meraktan açan okusun, açmayan da haklıdır):
+YnV0dW4gcGFydGlsZXIgYXluaSBjb3JhYmkgdmFhZCB lZGVyLCBmYXJrIHNhZGVjZSBoYW5naSBheWFnYSBnaXlkaXJlY2VrbGVyaW5kZWRpci4=
+
+Düzeltme, boşluksuz:
+YnV0dW4gcGFydGlsZXIgYXluaSBjb3JhYmkgdmFhZCBlZGVyLCBmYXJrIHNhZGVjZSBoYW5naSBheWFnYSBnaXlkaXJlY2VrbGVyaW5kZWRpci4=
+
+DAMGA: 6 Ekim 2026 | İsim: Kayyum Grok | İmza: gizli mürekkep, görünür parmak.
